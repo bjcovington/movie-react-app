@@ -1,6 +1,3 @@
-Certainly! Here's a simple README template for your Movie Album React app:
-
-```markdown
 # Movie Album React App
 
 Welcome to the Movie Album React App! This application allows you to explore a collection of your favorite movies.
@@ -18,7 +15,7 @@ Welcome to the Movie Album React App! This application allows you to explore a c
    ```bash
    git clone <repository-url>
    cd movie-album-react-app
-   ```
+
 
 2. **Install Dependencies:**
    ```bash
