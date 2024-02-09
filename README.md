@@ -13,7 +13,7 @@ Welcome to the Movie Album React App! This application allows you to explore a c
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone movie-react-app
    cd movie-album-react-app
 
 
