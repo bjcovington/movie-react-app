@@ -55,9 +55,4 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Replace `<repository-url>` with the actual URL of your Git repository. Feel free to customize this README to better fit your project details and structure. If you have specific sections or additional information you'd like to include, let me know, and I can help you modify the README accordingly.
